@@ -1,0 +1,6 @@
+FROM postgres:13.16-bullseye
+
+ENV POSTGRES_USER=test
+ENV POSTGRES_PASSWORD=test
+ENV POSTGRES_DB=test
+
